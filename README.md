@@ -9,6 +9,7 @@
 </div>
 <h1 align="center">I'm Kağan Ege</h1>
 
+- 🔭 I'm currently working on [Skriza](https://skriza.com/)
 - 😄 Pronouns: `He` / `Him`
 - 📫 How to reach me: [kaganege](https://discord.com/users/729651204216455229) on Discord
 - ⚡ Fun fact: I'm 16 and I have 600+ hours of coding
