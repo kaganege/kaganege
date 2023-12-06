@@ -41,6 +41,9 @@
   <a href="https://nodejs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" />
   </a>
+  <a href="">
+    <img src="https://bun.sh/logo.svg" alt="bun" width="45" height="45" />
+  </a>
   <a href="https://react.dev/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" />
   </a>
